@@ -2,6 +2,7 @@
 
 Follows the MIT's Intro to Programming using Python course.
 
-## Topic 1: What's computation
+## Topic 1: What's computation?
 
-- Lecture source and playground: [Lecture 1](./lectures/01/README.md)
+- [Lecture source and playground](./lectures/01/README.md)
+- [Problem set 0](./psets/ps0/power_log.py)
