@@ -100,6 +100,5 @@ print(type(3.0)) # float
     pi = 3.14159265
     radius = 2.2
     area = pi * (radius * * 2)
-    print(type(area)) # float
     print(area) # 15.205308426000004
   ```
